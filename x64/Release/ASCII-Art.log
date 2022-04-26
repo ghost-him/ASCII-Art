@@ -1,0 +1,9 @@
+﻿  ASCII-Art.cpp
+E:\Laboratory\c++\ASCII-Art\ASCII-Art.cpp(30,18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Laboratory\c++\ASCII-Art\ASCII-Art.cpp(56,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\Laboratory\c++\ASCII-Art\ASCII-Art.cpp(59,16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 306 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ASCII-Art.vcxproj -> E:\Laboratory\c++\ASCII-Art\x64\Release\ASCII-Art.exe
